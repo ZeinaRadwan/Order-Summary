@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [ https://www.frontendmentor.io/solutions/order-summary-By5mmf38c]( https://www.frontendmentor.io/solutions/order-summary-By5mmf38c)
+- Live Site URL: [https://zeinaradwan.github.io/Order-Summary/](https://zeinaradwan.github.io/Order-Summary/)
 
 ## My process
 
